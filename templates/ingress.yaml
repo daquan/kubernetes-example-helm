@@ -22,5 +22,5 @@ spec:
                 name: backend-service
                 port:
                   number: 5000
-      host: gitops-example.com 
+      host: my-test.com 
   ingressClassName: nginx
