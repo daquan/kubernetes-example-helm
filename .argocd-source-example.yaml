@@ -10,5 +10,5 @@ helm:
     value: lyzhang1999/backend
     forcestring: true
   - name: backend.tag
-    value: main-2a4bf9a
+    value: main-2ff1e41
     forcestring: true
