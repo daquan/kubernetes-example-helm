@@ -1,5 +1,11 @@
 helm:
   parameters:
+  - name: frontend.image
+    value: daquan/frontend
+    forcestring: true
+  - name: frontend.tag
+    value: main-d1e5514
+    forcestring: true
   - name: backend.image
     value: lyzhang1999/backend
     forcestring: true
