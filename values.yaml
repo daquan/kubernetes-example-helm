@@ -4,8 +4,8 @@ frontend:
   autoscaling:
     averageUtilization: 90
 backend:
-  image: daquan/backend
-  tag: 'cedffd2'
+  image: lyzhang1999/backend
+  tag: '1276e23'
   autoscaling:
     averageUtilization: 90
 database:
