@@ -1,11 +1,11 @@
 frontend:
   image: daquan/frontend
-  tag: latest
+  tag: cedffd2
   autoscaling:
     averageUtilization: 90
 backend:
   image: daquan/backend
-  tag: latest
+  tag: cedffd2
   autoscaling:
     averageUtilization: 90
 database:
