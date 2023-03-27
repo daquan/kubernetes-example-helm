@@ -5,7 +5,7 @@ frontend:
     averageUtilization: 90
 backend:
   image: lyzhang1999/backend
-  tag: '1276e23'
+  tag: '88a898d'
   autoscaling:
     averageUtilization: 90
 database:
